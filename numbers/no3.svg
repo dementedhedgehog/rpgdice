@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 70.866142 70.866141"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="no3.svg"
+   inkscape:export-filename="/home/blaize/proj/rpgdice/d20/d20.svg.png"
+   inkscape:export-xdpi="1444.9778"
+   inkscape:export-ydpi="1444.9778">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="33.846296"
+     inkscape:cy="28.146787"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="853"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     gridtolerance="1"
+     guidetolerance="1"
+     objecttolerance="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       spacingx="3.5433071"
+       empspacing="5"
+       units="mm"
+       spacingy="3.543307" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49606)">
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.99180328;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3348"
+       cx="35.611641"
+       cy="1017.1837"
+       rx="35.254501"
+       ry="35.357143" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4140-3"
+       transform="translate(-13.107143,0)">
+      <path
+         d="m 13.378906,12.6875 c -0.42,0.42 -0.42,1.189375 0,1.609375 4.9,0.42 6.020156,0.559121 6.160156,6.369141 0.140001,5.81 0.208985,9.240781 0.208985,15.050781 0,5.81 -0.06898,9.029844 -0.208985,14.839844 -0.14,5.81 -1.260156,6.161093 -6.160156,6.371093 -0.42,0.42 -0.42,1.189375 0,1.609375 8.254684,0.08121 15.316464,-0.436536 22.976563,-0.417969 7.404936,0.01795 14.629071,-0.02781 22.208979,0.511712 0.42,-0.42 0.42,-1.191328 0,-1.611328 -4.9,-0.21 -5.879531,-0.55914 -6.019531,-6.36914 -0.14,-5.74 -0.208985,-8.959532 -0.208984,-14.769532 0,-5.81 -10e-4,-9.241093 0.208984,-15.121093 0.14,-5.81002 1.119531,-6.019141 6.019531,-6.369141 0.42,-0.42 0.42,-1.189375 0,-1.609375 -7.987415,0.09753 -14.80574,0.201558 -22.208986,0.187501 -7.659412,-0.01454 -14.612854,0.22965 -22.976556,-0.281244 z m 16.16211,1.789062 c 2.953346,0.421874 3.760561,1.373834 3.875,6.123047 0.14,5.81 0.210937,9.240782 0.210937,15.050782 0,5.81 -0.07094,9.029843 -0.210937,14.839843 -0.119881,4.975027 -0.977975,5.939685 -4.292969,6.248047 -2.823312,-0.373397 -3.521825,-1.494599 -3.634766,-6.18164 -0.14,-5.74 -0.208984,-8.959532 -0.208984,-14.769532 0,-5.81 -0.001,-9.241093 0.208984,-15.121093 0.118442,-4.915344 0.866855,-5.814676 4.052735,-6.189454 z m 12.765625,0.101563 c 3.31137,0.396152 4.169235,1.208777 4.289062,6.181641 0.14,5.81 0.208985,9.240781 0.208985,15.050781 0,5.81 -0.06898,9.029844 -0.208985,14.839844 -0.10387,4.310619 -0.751816,5.613647 -3.078125,6.085937 -3.276066,-0.30951 -4.030645,-1.276663 -4.15039,-6.246094 -0.140001,-5.74 -0.210938,-8.961484 -0.210938,-14.771484 0,-5.81 9.37e-4,-9.239141 0.210938,-15.119141 0.103539,-4.296893 0.671128,-5.528637 2.939453,-6.021484 z"
+         transform="translate(13.107143,981.49606)"
+         id="path3361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsssccacccscccaccsssccscccsssccscc" />
+    </g>
+    <g
+       transform="translate(0.7707242,-0.06721681)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4140-3-3" />
+    <g
+       transform="translate(13.94929,0.093497)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4140-3-35" />
+  </g>
+</svg>

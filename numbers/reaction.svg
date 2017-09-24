@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 70.866142 70.866141"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="reaction.svg"
+   inkscape:export-filename="/home/blaize/proj/rpgdice/d20/d20.svg.png"
+   inkscape:export-xdpi="1444.9778"
+   inkscape:export-ydpi="1444.9778">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="41.623479"
+     inkscape:cy="5.3160886"
+     inkscape:document-units="px"
+     inkscape:current-layer="text4140-3-2"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="853"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     gridtolerance="1"
+     guidetolerance="1"
+     objecttolerance="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       spacingx="3.5433071"
+       empspacing="5"
+       units="mm"
+       spacingy="3.543307" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49606)">
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.99180328;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3348"
+       cx="35.611641"
+       cy="1017.1837"
+       rx="35.254501"
+       ry="35.357143" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4140-3-2"
+       transform="translate(-7.2423854,0)">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3356">
+        <path
+           d="m 33.104145,1019.0178 c 1.54,0.49 3.57,0.42 5.95,0.42 2.31,0 2.66,0.77 3.64,2.38 l 7.49,12.18 c 2.03,3.29 5.25,6.23 9.45,6.23 1.05,0 2.94,-0.14 3.64,-0.49 0.21,-0.49 0.21,-0.42 -0.07,-0.98 -3.15,0 -5.81,-2.38 -7.63,-5.39 l -8.75,-15.26 c 6.51,-2.52 8.61,-8.12 8.61,-12.6 0,-4.13 -2.59,-11.82997 -15.54,-11.82997 -1.82,0 -6.72,0.7 -9.52,0.7 -3.5,0 -5.46,-0.28 -8.96,-0.35 -0.42,0.42 -0.42,1.19 0,1.61 4.9,0.21 5.95,0.56 6.02,6.36997 0.07,5.81 0.14,9.24 0.14,15.05 0,5.81 -0.07,9.45 -0.14,15.26 -0.07,5.53 -1.12,5.74 -6.02,5.95 -0.42,0.42 -0.42,1.19 0,1.61 3.43,-0.07 5.53,-0.35 9.1,-0.35 3.92,0 6.02,0.28 9.52,0.35 0.42,-0.42 0.42,-1.19 0,-1.61 -4.83,-0.28 -6.72,-0.63 -6.79,-4.69 -0.07,-5.25 -0.14,-9.52 -0.14,-14.56 z m 0.14,-20.29997 c 0.07,-2.03 1.19,-3.36 6.23,-3.36 4.83,0 9.8,2.52 9.8,11.40997 0,7.56 -3.85,10.99 -10.64,10.99 -1.68,0 -4.62,-0.14 -5.53,-0.35 l 0,-0.35 c 0,-5.81 0.07,-12.53 0.14,-18.33997 z"
+           style=""
+           id="path4180" />
+      </g>
+    </g>
+  </g>
+</svg>
